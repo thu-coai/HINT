@@ -32,7 +32,7 @@ We train HINT based on the platform:
 The full data can be downloaded from [THUcloud](https://cloud.tsinghua.edu.cn/d/e895f635cb4d485d8f98/) or [GoogleDrive](https://drive.google.com/drive/folders/1i_2YfzpDnfuLyyctOyDabn3Br0OcK1Tj?usp=sharing). The structure for the directory `data` is as follows
 
 ```markdown
-├── data
+├── Data
    └── `pro_data.py`             # the code to create training examples
    └── `preprocess.sh`   # the script to create training examples
    └── `ini_data`		# the directory for the inital data
