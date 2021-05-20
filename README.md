@@ -1,6 +1,6 @@
 # HINT
 
-A generation model equipped with **HI**gh-level representations for lo**N**g **T**ext generation described in the paper [Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence]() (ACL 2021 Long Paper).
+A generation model equipped with **HI**gh-level representations for lo**N**g **T**ext generation described in the paper [Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence](https://arxiv.org/abs/2105.08963) (ACL 2021 Long Paper).
 
 
 
@@ -146,8 +146,15 @@ You can change `result_list` in the script to decide the results you want to eva
 
 ### Citation
 
-Please kindly cite our paper if [this paper](https://arxiv.org/abs/2009.07602) and the [code](https://github.com/thu-coai/UNION) are helpful.
+Please kindly cite our paper if this paper and the code are helpful.
 
 ```
-To appear
+@misc{guan2021long,
+      title={Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence}, 
+      author={Jian Guan and Xiaoxi Mao and Changjie Fan and Zitao Liu and Wenbiao Ding and Minlie Huang},
+      year={2021},
+      eprint={2105.08963},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
